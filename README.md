@@ -1,5 +1,5 @@
 # An Algorithm for Directly Forceable Graphs
-This repository supports the ongoing research "Directly Forceable Graphs". The algorithm and data in this repository aim to classify small graphs by their directly forceable properties, provide evidence for theorems, and support conjectures stated in the manuscript.
+This repository supports the ongoing research "Directly Forceable Graphs". The algorithm and data in this repository aim to classify graphs by their directly forceable properties, provide evidence for theorems, and support conjectures stated in the manuscript.
 
 *Tools: [Minimum Rank Sage Library](https://github.com/jasongrout/minimum_rank), SageMath 10.6 on [CoCalc](https://cocalc.com/), Python via Sage’s Jupyter Notebooks.*
 ## Contents
