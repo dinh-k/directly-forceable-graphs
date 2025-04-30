@@ -5,10 +5,9 @@ This repository supports the ongoing research "Directly Forceable Graphs". The a
 ## Contents
 - [brute-force-algo.ipynb](brute-force-algo.ipynb): This notebook introduces a brute-force algorithm in SageMath to determine whether a graph is directly forceable.
 - [database/](database): A collection of CSV files classifying small graphs by their direct forceability, organized by graph order, zero forcing number, and regularity. These files are the output of the brute-force classification. Each CSV contains rows representing individual graphs in graph6 format.
-  + File naming:
 
-      `n_k_df.csv`: Graphs of order n with zero forcing number Z(G) = n - k that are directly forceable.
+  `n_k_df.csv`: Graphs of order n with zero forcing number Z(G) = n - k that are directly forceable.
 
-      `n_k_not_df.csv`: Same as above, but graphs that are not directly forceable.
+  `n_k_not_df.csv`: Same as above, but graphs that are not directly forceable.
 
-      `regular_n.csv`: All regular graphs with n vertices.
+  `regular_n.csv`: All regular graphs with n vertices.
